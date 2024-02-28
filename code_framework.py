@@ -1,0 +1,1 @@
+base = random.uniform(1, 10)
